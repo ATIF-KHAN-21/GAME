@@ -1,3 +1,3 @@
 # GAME
 This is my first repo
-hello
+This is my first committ
